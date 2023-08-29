@@ -24,15 +24,15 @@
 
 Links open Colab notebooks. You may also clone [this repository](https://github.com/data-psl/lectures2022) and work locally.
 
- 1. Monday: [Python basics](https://colab.research.google.com/github/data-psl/lectures2022/blob/master/notebooks/01_python_basics.ipynb)
- 2. Tuesday: [Practice of Scikit-learn](https://github.com/data-psl/lectures2022/tree/master/notebooks/02_sklearn)
- 3. Thursday: [Optimization](https://colab.research.google.com/github/data-psl/lectures2022/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2022/blob/master/notebooks/03_optimization_corrected.ipynb)
- 4. At home: Classification with PyTorch and GPUs [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2022/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb) [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2022/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb) [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2022/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb)
+ 1. Wednesday: [Python basics](https://colab.research.google.com/github/data-psl/lectures2022/blob/master/notebooks/01_python_basics.ipynb)
+ 2. Thursday: [Practice of Scikit-learn](https://github.com/data-psl/lectures2022/tree/master/notebooks/02_sklearn)
+ 3. Friday: [Optimization](https://colab.research.google.com/github/data-psl/lectures2022/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2022/blob/master/notebooks/03_optimization_corrected.ipynb)
+ 4. Monday and Tuesday: Classification with PyTorch and GPUs [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2022/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb) [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2022/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb) [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2022/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb)
 
 ## Teachers
 
- * [Zaccharie Ramzi](https://zaccharieramzi.fr/) (ENS, CNRS)
- * [Hugo Richard](https://hugorichard.github.io/) (ENSAE)
+ * [Come Fiegel](ENSAE)
+ * [Hugo Richard](https://hugorichard.github.io/) (Criteo)
  * [Dario Colazzo](https://www.lamsade.dauphine.fr/~colazzo/) (Dauphine Université)
  * [Thierry Kirat](https://irisso.dauphine.fr/membres/detail-cv.html?tx_sngprofiles_displayprofiles%5Bprofile%5D=2548&tx_sngprofiles_displayprofiles%5Baction%5D=show&tx_sngprofiles_displayprofiles%5Bcontroller%5D=Profile&cHash=172591dfb873872cfb5df5536a3e51cc) (Dauphine Université)
 
