@@ -39,7 +39,10 @@ Links open Colab notebooks. You may also clone [this repository](https://github.
  - [Pipeline](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/02_sklearn/06-Pipeline.ipynb) 
 
  3. Friday: [Optimization](https://colab.research.google.com/github/data-psl/lectures2023/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2023/blob/master/notebooks/03_optimization_corrected.ipynb)
- 4. Monday and Tuesday: Classification with PyTorch and GPUs [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb) [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb) [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb)
+ 4. Monday and Tuesday: Classification with PyTorch and GPUs 
+ - [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
+ - [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
+ - [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2023/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
 
 ## Teachers
 
